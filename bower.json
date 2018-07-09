@@ -29,11 +29,11 @@
     "task"
   ],
   "bugs": {
-    "url": "https://github.com/PFElements/pf-calendar-events/issues"
+    "url": "https://github.com/vlucian/pf-calendar-events/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PFElements/pf-calendar-events"
+    "url": "git+https://github.com/vlucian/pf-calendar-events"
   },
   "devDependencies": {
   "iron-component-page": "PolymerElements/iron-component-page",
