@@ -1,3 +1,6 @@
+# [0.3.1]
+add full width styling posilibilities
+
 # [0.3.0]
 Now you can pick a color for various categories
 
